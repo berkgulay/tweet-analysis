@@ -1,5 +1,5 @@
-# TwitterAnalysis
-Data Mining, Plotting and Analysis assignment for Twitter Data which is in JSON format
+# Tweet Analysis
+Data Mining, Plotting and Analysis assignment for Twitter data, which is in JSON format
 
 *I was in my first year in Computer Engineering while I was implementing this with Python language.
 
